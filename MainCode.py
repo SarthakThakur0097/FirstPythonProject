@@ -21,3 +21,11 @@ def multiply(e, f):
 funcMultiply = multiply(10, 4)
 print(funcMultiply)
 
+
+def divide(g, h):
+    return g/h
+
+
+funcDivide = divide(50, 10)
+print (funcDivide)
+
