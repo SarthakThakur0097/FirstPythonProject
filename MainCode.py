@@ -29,3 +29,15 @@ def divide(g, h):
 funcDivide = divide(50, 10)
 print (funcDivide)
 
+
+def remainder(i, j):
+    return i % j
+
+
+funcRemainder = remainder(10, 3)
+print(funcRemainder)
+
+
+
+
+
