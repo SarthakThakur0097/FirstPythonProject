@@ -2,5 +2,6 @@ def add(a, b):
     return a+b
 
 
-add(3, 5)
+funcSum = add(3, 5)
+print(funcSum)
 
