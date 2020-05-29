@@ -12,3 +12,12 @@ def subtract(c, d):
 
 funcSub = subtract(10, 1)
 print(funcSub)
+
+
+def multiply(e, f):
+    return e*f
+
+
+funcMultiply = multiply(10, 4)
+print(funcMultiply)
+
